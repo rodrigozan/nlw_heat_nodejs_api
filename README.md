@@ -1,4 +1,4 @@
-# <nlw/>heat
+# NLW heat
 ### Mission: Impulse
 
 Esta é uma API desenvolvida em Node.js para o projeto NLW Heat.
