@@ -2,7 +2,7 @@
   "name": "nlw_heat_node_api",
   "version": "1.0.0",
   "description": "A NOde.js API developed during the NLW Heat",
-  "main": "src/app.ts",
+  "main": "src/app.js",
   "license": "MIT",
   "author": {
     "name": "Rodrigo Zandonadi",
